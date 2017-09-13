@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_2
 title: Ecosorbent - Elimina petele de ulei
 ---
 
