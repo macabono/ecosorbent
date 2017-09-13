@@ -1,5 +1,6 @@
-title: Ecosorbent - Elimina petele de ulei
+name: Ecosorbent - Elimina petele de ulei
 description: Absorbant natural pentru interventii in cazul scurgerilor de produse petroliere.
+markdown: kramdown
 show_downloads: true
 google_analytics:
 theme:
